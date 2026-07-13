@@ -1,4 +1,4 @@
-# Microsoft-Fabric-Learning
+# Microsoft-Fabric- Sales Analytics
 All about fabric 
 
 # Sales Analytics Platform
